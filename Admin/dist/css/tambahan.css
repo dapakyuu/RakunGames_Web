@@ -1,0 +1,29 @@
+.btn-link-white {
+  font-weight: 400;
+  color: lightgray;
+  text-decoration: none;
+}
+
+.btn-link-white:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.btn-link-white:focus,
+.btn-link.focus {
+  text-decoration: none;
+}
+
+.btn-link-white:disabled,
+.btn-link.disabled {
+  color: #6c757d;
+  pointer-events: none;
+}
+
+#dropdownIcon {
+  transition: transform 0.2s;
+}
+
+.hide-icon {
+  display: none !important;
+}
