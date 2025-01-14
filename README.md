@@ -1,6 +1,6 @@
 # Rakun Games Website
 
-Project website usaha jasa rawat akun game dan partner game online untuk memenuhi tugas akhir mata kuliah pemrograman web.
+Project website usaha jasa rawat akun game dan partner game online untuk memenuhi tugas akhir mata kuliah pemrograman web. Project ini juga dikombinasikan dengan mata kuliah sistem cerdas dan automasi yaitu dengan membuat suatu sistem cerdas yang dapat menentukan rekomendasi agen berdasarkan hasil sentimen analisis dari ulasan yang diberikan pelanggan.
 
 ## Tampilan Home
 ![image](https://github.com/user-attachments/assets/b1032051-f949-4a20-ae90-e86ef0529f81)
